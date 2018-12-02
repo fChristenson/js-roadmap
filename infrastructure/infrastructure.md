@@ -47,7 +47,7 @@ It is worth to note that at the time of writing this document companies favor ei
 
 ## Useful tools
 
-Below are at the time of writing this document a few common tools related to infrastructure related work.
+Below are at the time of writing this document a few common tools for infrastructure related work.
 
 * [Terraform](https://www.terraform.io/)
 
