@@ -12,13 +12,13 @@ Client validation is a vital part of almost every enterprise application and sho
 
 [JWT](https://en.wikipedia.org/wiki/JSON_Web_Token) is at the time of writing this document a popular way to allow stateless validation for a client connecting to a server.
 
-### Oauth
+### OAuth
 
-[Oauth](https://en.wikipedia.org/wiki/OAuth) is at the time of writing this document a popular way to let users provide access to information provided by a provider to a third party application.
+[OAuth](https://en.wikipedia.org/wiki/OAuth) is at the time of writing this document a popular way to let users provide access to information provided by a provider to a third party application.
 
 ## Common tools
 
 * [Express session](https://www.npmjs.com/package/express-session)
 * [Passport](http://www.passportjs.org/)
 
-#### [back](../../README.md)
+**[back](../../README.md)**

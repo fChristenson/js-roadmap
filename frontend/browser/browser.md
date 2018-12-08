@@ -1,4 +1,4 @@
-# Browser    
+# Browser
 
 ## General
 
@@ -24,4 +24,4 @@ Cookies are a way for developers to store information in the users browser and t
 
 You can read more about cookies [here](https://www.w3schools.com/js/js_cookies.asp).
 
-#### [back](../../README.md)
+**[back](../../README.md)**

@@ -6,4 +6,4 @@ The following resources are very important to a frontend developer:
 * [MDN](https://developer.mozilla.org)
 * [w3schools](https://www.w3schools.com)
 
-#### [back](../../README.md)
+**[back](../../README.md)**

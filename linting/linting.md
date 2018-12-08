@@ -13,4 +13,4 @@ At the time of writing this document the following linters are very common:
 * [Stylelint](https://stylelint.io/)
 * [Eslint](https://eslint.org)
 
-#### [back](../README.md)
+**[back](../README.md)**

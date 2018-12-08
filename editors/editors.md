@@ -13,4 +13,4 @@ The following editors are very popular at the time of writing this document:
 * [Sublime text](https://www.sublimetext.com/)
 * [Vim](https://www.vim.org/about.php)
 
-#### [back](../README.md)
+**[back](../README.md)**

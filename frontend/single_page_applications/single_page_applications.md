@@ -21,4 +21,4 @@ The following is a list of the most core concepts for React development and you 
 * [React redux](https://redux.js.org/basics/usagewithreact)
 * [Babel](https://babeljs.io/)
 
-#### [back](../../README.md)
+**[back](../../README.md)**

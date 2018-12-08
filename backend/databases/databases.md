@@ -32,4 +32,4 @@ Databases are a core part of most enterprise applications and understanding them
 * [Sequelize](http://docs.sequelizejs.com/)
 * [Mongoose](https://mongoosejs.com/)
 
-#### [back](../../README.md)
+**[back](../../README.md)**

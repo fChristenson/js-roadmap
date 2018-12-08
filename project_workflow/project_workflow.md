@@ -35,4 +35,4 @@ At the time of writing this document the following tools are very common to find
 * [Gitlab](https://about.gitlab.com/)
 * [Jira](https://jira.atlassian.com/)
 
-#### [back](../README.md)
+**[back](../README.md)**

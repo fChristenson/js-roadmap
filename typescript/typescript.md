@@ -11,4 +11,4 @@ A good rule of thumb is to use TypeScript for enterprise level projects.
 * [TSLint](https://palantir.github.io/tslint/)
 * [ts-loader](https://webpack.js.org/guides/typescript/)
 
-#### [back](../README.md)
+**[back](../README.md)**

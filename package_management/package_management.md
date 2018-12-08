@@ -9,4 +9,4 @@ At the time of writing this document the most popular package managers are:
 * [Npm](https://npmjs.com)
 * [Yarn](https://yarnpkg.com/en/)
 
-#### [back](../README.md)
+**[back](../README.md)**

@@ -6,7 +6,7 @@ Version control is standard practice in almost every project in programming and 
 
 At the time of writing this document the most popular version control system is [Git](https://git-scm.com/)
 
-It is worth mentioning that you may encounter the following version control systems but they are not as common 
+It is worth mentioning that you may encounter the following version control systems but they are not as common.
 
 * [Mercurial](https://www.mercurial-scm.org/)
 * [Subversion](https://subversion.apache.org/)
@@ -22,4 +22,4 @@ At the time of writing this document some of the most common hosting services fo
 * [Github](https://github.com/)
 * [Bitbucket](https://bitbucket.org)
 
-#### [back](../README.md)
+**[back](../README.md)**

@@ -26,7 +26,6 @@ Webpack is a bundling tool that allows you to build large scale [JavaScript](../
 
 You can read more about Webpack [here](https://webpack.js.org/).
 
-
 ## Common Webpack loaders
 
 * [Style loader](https://github.com/webpack-contrib/style-loader)
@@ -43,4 +42,4 @@ You can read more about Webpack [here](https://webpack.js.org/).
 
 * [Hot module Replacement (HMR)](https://webpack.js.org/concepts/hot-module-replacement/)
 
-#### [back](../../README.md)
+**[back](../../README.md)**

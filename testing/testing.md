@@ -80,4 +80,4 @@ This is very common in large companies when the company wants to know if a new f
 
 You can read more about A/B testing [here](https://en.wikipedia.org/wiki/A/B_testing).
 
-#### [back](../README.md)
+**[back](../README.md)**

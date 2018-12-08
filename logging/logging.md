@@ -15,4 +15,4 @@ You can read more about log levels [here](https://blog.scalyr.com/2017/12/loggin
 * [Bunyan](https://github.com/trentm/node-bunyan)
 * [Winston](https://github.com/winstonjs/winston#readme)
 
-#### [back](../README.md)
+**[back](../README.md)**

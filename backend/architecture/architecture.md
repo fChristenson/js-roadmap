@@ -53,4 +53,4 @@ The following are common network communication patterns, [REST](https://en.wikip
 * [Remote procedure call (RPC)](https://en.wikipedia.org/wiki/Remote_procedure_call)
 * [GraphQL](https://en.wikipedia.org/wiki/GraphQL)
 
-#### [back](../../README.md)
+**[back](../../README.md)**
