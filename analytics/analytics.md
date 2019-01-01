@@ -4,7 +4,7 @@
 
 Analytics is part of almost all enterprise applications and it comes down to the company wanting to know various things about the users using the application.
 
-The information that is desired can vary but the basics are what device was used, what pages where visited, what buttons where clicked and how long the user stayed before leaving.
+The information that is desired can vary but the basics are what device was used, what pages were visited, what buttons were clicked and how long the user stayed before leaving.
 
 ## Common tools
 
